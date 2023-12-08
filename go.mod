@@ -1,6 +1,6 @@
 module test_app
 
-go 1.21.5
+go 1.21.3
 
 require (
 	github.com/gobuffalo/buffalo v1.1.0
